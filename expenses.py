@@ -1,5 +1,5 @@
 import json
-import o
+import os
 from datetime import datetime
 
 # Load existing expenses or create empty list
