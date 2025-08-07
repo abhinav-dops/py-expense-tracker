@@ -9,7 +9,7 @@ if os.path.exists("expenses.json"):
 else:
     expenses = []
 
-
+kaj
 def show_total_expenses():    #  show total spending.
     with open("expenses.json", "r") as file:
         expenses = json.load(file)
